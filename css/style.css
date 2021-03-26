@@ -90,15 +90,15 @@ h6 {
 }
 
 @font-face {
-  font-family: "Gilroy";
+  font-family: "gilroy";
   font-display: swap;
-  src: url("../fonts/Gilroy-Regular.woff") format("woff"), url("../fonts/Gilroy-Regular.woff2") format("woff2");
+  src: url("../fonts/gilroy-regular.woff") format("woff"), url("../fonts/gilroy-regular.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
 }
 
 body {
-  font-family: "Gilroy";
+  font-family: "gilroy";
   font-size: 24px;
 }
 
